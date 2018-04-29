@@ -6,6 +6,6 @@ First Capital Coin (FCC) is committed to Green Technology, Green Finance and Env
 
 Token Contract (ERC20) Address
 
-0x0b6ddd1c0b7ab2dffccbbf95002713774677cbec
+[0x0b6ddd1c0b7ab2dffccbbf95002713774677cbec](https://etherscan.io/token/0x0b6ddd1c0b7ab2dffccbbf95002713774677cbec)  
 
 
